@@ -6,11 +6,11 @@
 #      Repository: https://github.com/archeon1004/ADFSMetadataValidator.git      
 #                                                                                
 #                            --- Code Description ---                            
-#                                      Script that checks correctness of SAML application metadata                                      
+#               Script that checks correctness of SAML application metadata                                      
 
 <#
 .SYNOPSIS
-    ADFSMetadataValidator - checks if SP SAML metadata is in correct format
+    ADFSMetadataValidator - checks if SP SAML metadata has correct format
 .DESCRIPTION
     ADFSMetadataValidator implements gui to help user check if provided SP metadata XML file is complying with XML, SAML Metadata format 
 .EXAMPLE
